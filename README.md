@@ -2,30 +2,34 @@
 
 ###
 
-<div align="center">
-![LucasWictor's Stats](https://github-readme-stats.vercel.app/api?username=LucasWictor&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-  ![LucasWictor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasWictor&theme=tokyonight&hide_border=true)
-  ![LucasWictor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWictor&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasWictor&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="LucasWictor's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasWictor&theme=tokyonight&hide_border=true" alt="LucasWictor's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWictor&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="LucasWictor's Top Languages" />
+</p>
+
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo" />
+</p>
 
 ###
 
 <br clear="both">
+
 
 <div align="center">
   <a href="dahlulle@gmail.com" target="_blank">
