@@ -3,10 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasWictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ![LucasWictor's Stats](https://github-readme-stats.vercel.app/api?username=LucasWictor&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![LucasWictor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasWictor&theme=tokyonight&hide_border=true)
+  ![LucasWictor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWictor&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+</div>
 ###
 
 <div align="center">
