@@ -1,6 +1,6 @@
 <p align="left">
   <img src="./header.png" style="width:70%;">
-<img src="./giphy.gif" alt="Sonic GIF" style="width:40%; float: right; position: relative;"></p>
+<img src="./giphy.gif" alt="Sonic GIF" style="width:40%;"></p>
 
 
 <div align="center">
