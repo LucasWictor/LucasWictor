@@ -1,5 +1,5 @@
 <p>
-  <img src="./github-header-image.png" alt="Header" style="width:70%; display: inline-block;">
+  <img src="./header.png" alt="Header" style="width:70%; display: inline-block;">
   <img src="./giphy.gif" alt="Sonic GIF" style="width:40%; display: inline-block; vertical-align: top;">
 </p>
 
