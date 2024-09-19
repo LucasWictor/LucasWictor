@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./heade.png" style="width:100%;">
+  <img src="./heade.png" style="width:70%;">
   <img src="./sonic.gif" alt="Sonic GIF" style="width:70%; float: right;">
 </p>
 
