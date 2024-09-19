@@ -1,6 +1,8 @@
-![Header](./github-header-image.png)
+<p align="left">
+  <img src="./github-header-image.png" alt="Header" style="width:50%;">
+  <img src="./sonic.gif" alt="Sonic GIF" style="width:15%; float: right;">
+</p>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasWictor&theme=react&show_icons=true&hide_border=true&count_private=true" alt="LucasWictor's Stats" width="380" />
