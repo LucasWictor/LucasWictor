@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 My name is Lucas and I'm a .NET developer in the making from Sweden.</h2>
+![Header](./github-header-image.png)
 
 ###
 
